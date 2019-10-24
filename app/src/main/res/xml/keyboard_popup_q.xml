@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="52dp">
+    <Row android:rowEdgeFlags="top">
+        <Key android:keyLabel="ø"/>
+        <Key android:keyLabel="ø̃" android:keyOutputText="ø̃"/>
+        <Key android:keyLabel="ǿ"/>
+        <Key android:keyLabel="ø̀" android:keyOutputText="ø̀"/>
+        <Key android:keyLabel="q"/>
+    </Row>
+</Keyboard>

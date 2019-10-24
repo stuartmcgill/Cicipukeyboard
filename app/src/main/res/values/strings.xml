@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cicipu keyboard</string>
+    <string name="checkbox_enabled">On</string>
+    <string name="checkbox_default">Selected</string>
+    <string name="cicipu_ime">Cicipu keyboard</string>
+    <string name="subtype_cic">Cicipu</string>
+    <string name="background_icon">Background icon</string>
+    <string name="instruction">Tick 2 boxes</string>
+</resources>
